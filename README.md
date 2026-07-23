@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="reelvault-lockup.svg" alt="ReelVault" width="380">
+</p>
+
+<p align="center"><b>Your photos. Your devices. No cloud.</b></p>
+
 # ReelVault — releases
 
 Public download mirror for **ReelVault**, a cross-platform, user-owned photo &
