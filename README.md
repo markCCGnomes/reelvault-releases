@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="reelvault-lockup.svg" alt="ReelVault" width="380">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="reelvault-lockup-reversed.svg">
+    <img src="reelvault-lockup.svg" alt="ReelVault" width="380">
+  </picture>
 </p>
 
-<p align="center"><b>Your photos. Your devices. No cloud.</b></p>
+<p align="center"><b>Your moments, kept on your own devices.</b></p>
 
 # ReelVault — releases
 
@@ -41,3 +44,13 @@ a client-side unlock and never changes how your data is stored.
 Distributed under the **Vault Ecosystem License v1.1** (see [`LICENSE`](LICENSE)):
 free to download, use, and self-host — personal and commercial — with no
 redistribution, modification, reverse engineering, or hosted-service resale.
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="vaultsuite-lockup-reversed.svg">
+    <img src="vaultsuite-lockup.svg" alt="VaultSuite" width="220">
+  </picture>
+</p>
+<p align="center">ReelVault is part of the <b>VaultSuite</b> family — user-owned apps on your own devices.</p>
